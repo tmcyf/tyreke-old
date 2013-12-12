@@ -1,1 +1,16 @@
-["redis-brain.coffee", "shipit.coffee", "imdb.coffee", "abstract.coffee", "achievement_unlocked.coffee", "advice.coffee", "ambush.coffee", "aww.coffee", "carlton.coffee", "catfacts.coffee", "chat.coffee", "cheer.coffee", "coin.coffee", "corgime.coffee", "countdown.coffee", "darksky.coffee", "deadline.coffee", "encourage.coffee", "hangout.coffee", "kittens.coffee", "rotten.coffee", "sloth-me.coffee", "sms.coffee", "tell.coffee", "twss.coffee", "weather.coffee"]
+[
+  "abstract.coffee",
+  "catfacts.coffee",
+  "chat.coffee",
+  "cheer.coffee",
+  "coin.coffee",
+  "encourage.coffee",
+  "hangout.coffee",
+  "imdb.coffee",
+  "redis-brain.coffee",
+  "rotten.coffee",
+  "shipit.coffee",
+  "sloth-me.coffee",
+  "sms.coffee",
+  "weather.coffee"
+]

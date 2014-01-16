@@ -8,6 +8,7 @@
   "hangout.coffee",
   "imdb.coffee",
   "redis-brain.coffee",
+  "remind.coffee",
   "rotten.coffee",
   "shipit.coffee",
   "sloth-me.coffee",

@@ -16,6 +16,8 @@
 responses = [
   "dude, totally!",
   "when are you not?",
+  "hahaaa, totes dude.",
+  "duh doy.",
   "I can't really say.",
   "Of course you're right!"
 ]

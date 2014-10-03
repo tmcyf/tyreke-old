@@ -23,7 +23,7 @@
 
 module.exports = (robot) ->
   # Word definition
-  robot.respond /\b(define)(.*)/i, (msg) ->
+  robot.respond /define( me)? (.*)/i, (msg) ->
     word = msg.match[2]
 
     fetch_wordnik_resource(msg, word, 'definitions', {}) (err, res, body) ->
